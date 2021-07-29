@@ -161,7 +161,7 @@
     
     #clients::before {
         content: "";
-        background: url(/img/bg.jpg) no-repeat center center/cover;
+        background: url(../img/bg.jpg) no-repeat center center/cover;
         position: absolute;
         height: 100%;
         width: 100%;
@@ -187,7 +187,7 @@
     
     #contact form::before {
         content: "";
-        background: url(/img/contact.jpg) no-repeat center center/cover;
+        background: url(../img/contact.jpg) no-repeat center center/cover;
         position: absolute;
         top: 0px;
         left: 0px;
